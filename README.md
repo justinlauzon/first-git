@@ -1,3 +1,3 @@
 # Heading
 
-Some Description
+Some Description of the Project.
